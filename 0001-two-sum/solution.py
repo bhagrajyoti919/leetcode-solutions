@@ -1,2 +1,3 @@
 class Solution:
-    pass
+    def twoSum(self):
+        return []
